@@ -10,4 +10,4 @@ Note: You must install "freegames" library in order to run the game, and you can
 
 1. Go to Command Prompt (cmd)
 
-2. Write the following command: pip install freegames
+2. Write the following command: **pip install freegames**
