@@ -6,7 +6,7 @@ As you can see in the video, you have to click on the column you want to drop th
 
 
 
-Note: You must install "freegames" library in order to run the game, and you can install the library as follows:
+**Note:** You must install "freegames" library in order to run the game, and you can install the library as follows:
 
 1. Go to Command Prompt (cmd)
 
